@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+html{
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-light{
+    color: #008080;
+
+}
+.navbar-light .navbar-brand{
+    color: #be0aaf;
+    
+}
+
+/*.navbar-light .navbar*/
+
+.bg-light{
+    background-color: #fff;
+}
+
+a {
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.home-text{
+    color: #be0aaf;
+    font-size: x-large;
+    margin-top: 100px;
+}
+
+.img-size{
+    width: 200px;
+    height: 60px;
+    margin-top: 100px;
+}
+
+.home-img{
+    width: 350px;
+    height: auto;
+    margin-top: 200px;
+}
+
